@@ -14,7 +14,7 @@
 
 <p align="center">
   <img 
-    src=".github/assets/Capa.png"
+    src=".github/assets/Capa.PNG"
     width="400"  
   />
 </p>
