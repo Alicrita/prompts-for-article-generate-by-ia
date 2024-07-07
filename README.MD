@@ -15,7 +15,7 @@
 <p align="center">
   <img 
     src="assets/Capa.PNG"
-    width="400"  
+    width="100%"  
   />
 </p>
 
